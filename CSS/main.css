@@ -1,0 +1,215 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.heading {
+    position: absolute;
+    width: 125px;
+    height: 35px;
+    left: 514px;
+    top: 64px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+
+.heading2 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 730px;
+    top: 179px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #0D0C0C;
+
+}
+
+.underline {
+    position: absolute;
+    width: 67.5px;
+    height: 0px;
+    top: 80px;
+    left: 80px;
+    border: 4px solid #D89616;
+
+}
+
+.image1 { 
+    position: absolute;
+    width: 422px;
+    height: 496px;
+    left: 92px;
+    top: 220px;
+    background: url(../images/person.png);
+}
+
+.text-des {
+    position: absolute;
+    width: 513px;
+    height: 168px;
+    left: 600px;
+    top: 301px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #0D0C0C;
+}
+
+.form-box {
+    position: absolute;
+    width: 780px;
+    height: 600px;
+    left: 250px;
+    right: 250px;
+    top: 800px;
+    bottom: 50px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.contact {
+    position: absolute;
+    width: 321.67px;
+    height: 59px;
+    left: 50px;
+    top: 5px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+
+
+    color: #0D0C0C;
+
+}
+
+.firstnamelabel {
+    position: absolute;
+    width: 321.67px;
+    height: 21px;
+    left: 50px;
+    top: 120px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+color: #0D0C0C;
+}
+
+.firstname {
+    position: absolute;
+    width: 663px;
+    height: 43px;
+    left: 50px;
+    top: 150px;
+
+    background: #FFFFFF;
+    border: 1px solid #0D0C0C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.lastnamelabel {
+    position: absolute;
+    width: 321.67px;
+    height: 21px;
+    left: 50px;
+    top: 200px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #0D0C0C;
+     
+}
+
+
+.lastname {
+    position: absolute;
+    width: 663px;
+    height: 43px;
+    left: 50px;
+    top: 220px;
+
+    background: #FFFFFF;
+    border: 1px solid #0D0C0C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.messagelabel {
+    position: absolute;
+    width: 321.67px;
+    height: 21px;
+    left: 50px;
+    top: 270px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #0D0C0C;
+}
+
+
+.message {
+    position: absolute;
+    width: 663px;
+    height: 160px;
+    left: 50px;
+    top: 290px;
+    right: 50px;
+
+    background: #FFFFFF;
+    border: 1px solid #0D0C0C;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+
+
+.submit-btn {
+    position: absolute;
+    width: 217px;
+    height: 40px;
+    left: 500px;
+    top: 500px;
+
+    background: rgba(0, 77, 230, 0.76);
+    border-radius: 8px;
+}
